@@ -5,7 +5,7 @@ A simple and interactive **Tic Tac Toe** (also known as *Noughts and Crosses*) g
 
 ## 🔗 Demo
 
-> *\[Add live link here if hosted, e.g., GitHub Pages or Netlify]*
+> https://fun-tic-tak-toe.netlify.app/
 
 
 ## 🚀 Features
